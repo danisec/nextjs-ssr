@@ -14,10 +14,10 @@ export default function Users(props) {
                   ID
                 </th>
                 <th scope='col' className='py-3 px-6'>
-                  Tile
+                  Title
                 </th>
                 <th scope='col' className='py-3 px-6'>
-                  Body
+                  Content
                 </th>
               </tr>
             </thead>
